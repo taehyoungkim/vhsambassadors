@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;        
+  font-family: 'Roboto', sans-serif;
 }
 h2 {
   font-size: 30px;
@@ -152,7 +152,6 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .block img {
   padding-left: 40px;
   width: 100%;
-  filter: blur(0px);
 }
 #intro .section-title {
   margin-bottom: 0px;
@@ -450,7 +449,6 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-menu ul li:hover:before {
 }
-
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
   width: 32.22%;
@@ -470,8 +468,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transform: translate(0%, -50%);
 }
 #portfolio-work .block .portfolio-contant ul li a {
-  display: block;
-  color: #fff;
+  color: cadetblue;
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
   font-size: 22px;
